@@ -1,0 +1,5 @@
+cd "/home/sk/github/idaccuracy-KEYNESSUN"
+
+sudo chmod +x idaccuracy1_3.r
+
+Rscript idaccuracy1_3.r /home/sk/Downloads/data/assignment_idaccuracy/Aminer
